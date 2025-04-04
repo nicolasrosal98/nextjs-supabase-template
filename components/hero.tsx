@@ -45,7 +45,7 @@ export default function Hero() {
           <p className="font-medium">Important Setup Step</p>
         </div>
         <p className="mt-2 text-yellow-700 dark:text-yellow-300">
-          Don't forget to add your Supabase credentials to{" "}
+          Don&apos;t forget to add your Supabase credentials to{" "}
           <span className="font-mono">.env/.env.local</span> before running the
           application.
         </p>
