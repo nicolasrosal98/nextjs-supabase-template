@@ -20,5 +20,5 @@ jobs:
         run: npm run type:check
       - name: 🔎 Check formatting with Prettier
         run: npm run format:check
-      - name: ✅ Check app builds
+      - name: 🔎 Check app builds
         run: npm run build
